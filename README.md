@@ -5,6 +5,7 @@
 
 # Home
 Displays real-time platform stastics.
+
 <img width="934" height="445" alt="Image" src="https://github.com/user-attachments/assets/59584199-1617-4ead-aded-aff99d352d2a" />
 
 | Contributor                 | Role          | Task Description                                                | 
@@ -18,6 +19,7 @@ Displays real-time platform stastics.
 | **Mary Chanda**             | Documentation | Tracks the site documentations and display text                 | 
 | **Humphery Mwila Chileshe** | Documentation | Tracks the site documentations and display text                 | 
 | **Kulusha Ng'ambi**         | Dev           | Developer                                                       |
+
 
 
 
