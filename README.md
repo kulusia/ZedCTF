@@ -30,10 +30,39 @@ If a challenge is solved, the submission box is locked and a user is able to vie
 
    <img width="848" height="466" alt="Image" src="https://github.com/user-attachments/assets/bf6fb547-631c-43f9-909e-e373b6d0329f" />
    
-3. **Multi-Flag Challenge** </br>
+2. **Multi-Flag Challenge** </br>
    Requires are multiple flags for each question submission and points (pts) are earned based on the question (Q) pts. It tracks the overal performance or progress and once all questions are solved, total pts acumulate based on the overal challenge rating (easy, medium, hard, or expert).
 
    <img width="837" height="410" alt="Image" src="https://github.com/user-attachments/assets/c81db0ae-9150-4a66-9fc0-e7d7b1b8d0bc" />
+
+# LIVE CTF
+1. **Request Hosting** </br>
+   An entity can request for event hosting features through Mobile Money and will have hosting previledges such as creating an event and adding challenges to it then decides if its for limited/unlimited individuals/teams.
+   
+2. **LIVE Events** </br>
+   Displays events happening in real-time and it as a leaderboard inside the event but non registered users can view the leaderborad through the Leaderboard tab and select Live CTF Leaderboard.
+   
+3. **Upcoming Events** </br>
+   Displays future events and this is where participants can register for an event through Mobile Mobile or the manual aproval method.
+
+   <img width="701" height="434" alt="Image" src="https://github.com/user-attachments/assets/fd1f0b7e-b3a8-4156-8a29-7fa3e93079a3" /> </br>
+   <img width="698" height="472" alt="Image" src="https://github.com/user-attachments/assets/a57b12fa-ae07-4063-a9b9-f8760fe35820" />
+   
+4. **Past Events** </br>
+   Once an event is done, it shows under this category to track the past event stats.
+
+# Leaderboard 
+Displays the player performance on the platform through the Global and Live pts.
+
+<img width="702" height="437" alt="Image" src="https://github.com/user-attachments/assets/714e0181-5012-4807-bb8d-b658108db675" />
+
+1. **Global** </br>
+   Shows all player (s) total pts on the platform, both from practice and events.
+
+   <img width="722" height="473" alt="Image" src="https://github.com/user-attachments/assets/63cd2b5c-12d6-457e-8a69-9470c89eb6a7" />   
+   
+2. Live
+   Displays real-time event scores for different events and availble to the public.
 
 
 
@@ -49,6 +78,7 @@ If a challenge is solved, the submission box is locked and a user is able to vie
 | **Mary Chanda**             | Documentation | Tracks the site documentations and display text                 | 
 | **Humphery Mwila Chileshe** | Documentation | Tracks the site documentations and display text                 | 
 | **Kulusha Ng'ambi**         | Dev           | Developer                                                       |
+
 
 
 
