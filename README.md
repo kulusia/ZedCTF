@@ -13,6 +13,13 @@ If you don't have an account, click on Create an account and fill in the details
 
 <img width="820" height="462" alt="Image" src="https://github.com/user-attachments/assets/e9c0ed56-f37c-4bad-bb45-95923e7de603" />
 
+# Dashboard 
+Track your activity and manage your account.
+
+<img width="790" height="453" alt="Image" src="https://github.com/user-attachments/assets/00b4256f-e196-4c36-a6c3-c32310e4bbd4" />
+
+
+
 | Contributor                 | Role          | Task Description                                                | 
 | --------------------------- | ------------- | --------------------------------------------------------------- | 
 | **James Soko**              | Dev           | Developer and Challenge Creator                                 | 
@@ -24,6 +31,7 @@ If you don't have an account, click on Create an account and fill in the details
 | **Mary Chanda**             | Documentation | Tracks the site documentations and display text                 | 
 | **Humphery Mwila Chileshe** | Documentation | Tracks the site documentations and display text                 | 
 | **Kulusha Ng'ambi**         | Dev           | Developer                                                       |
+
 
 
 
