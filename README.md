@@ -25,12 +25,12 @@ Access all the featured challenges for practice in different categories. The cat
 
 ## Challenge Types
 If a challenge is solved, the submission box is locked and a user is able to view the correct submitted flag for future reference, but the challenge is only locked for that user on the platform.
-1. Single Flag Challenge
+1. **Single Flag Challenge** </br>
    Requires are single flag for submission and points (pts) are earned based on the rating (easy, medium, hard, or expert)
 
    <img width="848" height="466" alt="Image" src="https://github.com/user-attachments/assets/bf6fb547-631c-43f9-909e-e373b6d0329f" />
    
-3. Multi-Flag Challenge
+3. **Multi-Flag Challenge** </br>
    Requires are multiple flags for each question submission and points (pts) are earned based on the question (Q) pts. It tracks the overal performance or progress and once all questions are solved, total pts acumulate based on the overal challenge rating (easy, medium, hard, or expert).
 
    <img width="837" height="410" alt="Image" src="https://github.com/user-attachments/assets/c81db0ae-9150-4a66-9fc0-e7d7b1b8d0bc" />
@@ -49,6 +49,7 @@ If a challenge is solved, the submission box is locked and a user is able to vie
 | **Mary Chanda**             | Documentation | Tracks the site documentations and display text                 | 
 | **Humphery Mwila Chileshe** | Documentation | Tracks the site documentations and display text                 | 
 | **Kulusha Ng'ambi**         | Dev           | Developer                                                       |
+
 
 
 
